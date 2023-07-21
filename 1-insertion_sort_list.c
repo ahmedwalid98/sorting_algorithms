@@ -21,7 +21,7 @@ void swap(listint_t **h, listint_t **n1, listint_t *n2)
 }
 
 /**
- * isertion_sort_list - sort linked list
+ * insertion_sort_list - sort linked list
  * @list: pointer to list
  */
 void insertion_sort_list(listint_t **list)
